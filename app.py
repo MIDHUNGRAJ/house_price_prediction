@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import data_cleaning as ds
+import your_dataset as ds
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score
 
